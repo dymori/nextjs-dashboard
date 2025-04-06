@@ -1,3 +1,5 @@
 onlyBuiltDependencies:
   - bcrypt
   - sharp
+ignoredBuiltDependencies:
+  - '@vercel/speed-insights'
